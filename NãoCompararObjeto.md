@@ -1,7 +1,7 @@
 # QualQuerTipoC-
 
    // Não dar para comparar um objeto com o outro e sim o atributo do objeto/;
-            //
+           
             Conta mauricio = new Conta();
             mauricio.numero = 1;
             mauricio.titular = "Mauricio";
